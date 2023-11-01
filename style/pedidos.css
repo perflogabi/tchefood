@@ -1,0 +1,10 @@
+.pedido {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 10px;
+    display: inline-block;
+}
+#status_pedidos{
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
