@@ -19,7 +19,7 @@
 <div class="container-fluid">
 
     <div class="navb-logo">
-        <img src="./img/logo.png" alt="Logo" >
+        <img src="./assets/logo.png" alt="Logo" >
         
     </div>
 
