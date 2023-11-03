@@ -7,12 +7,10 @@
     <link rel="icon" href="images/favicon.png" />
 
     <title>Pizzaria da Gabi</title>
-    <link rel="stylesheet" href="style/cardapio.css">
+    <link rel="stylesheet" href="../style/cardapio.css">
 </head>
 <body>
-    <?php
-        include './telas/menu.php';
-    ?>
+   
 
     <!-- modelos de pizza na lista e no carrinho -->
     <div class="models">
@@ -43,10 +41,10 @@
     <!-- /models -->
 
     <!-- .menu-openner aparecera no modo mobile -->
-    <header>
+    <!-- <header>
         
         <div class="menu-openner"><span>0</span>🛒</div>
-    </header>
+    </header> -->
     <!-- /menu-openner -->
 
     <!-- conteudo principal -->
@@ -125,7 +123,7 @@
     <!-- /janela modal .pizzaWindowArea -->
     
 
-    <script src="js/pizzas.js"></script>
-    <script src="js/script.js"></script>
+    <script src="../js/pizzas.js"></script>
+    <script src="../js/script.js"></script>
 </body>
 </html>
